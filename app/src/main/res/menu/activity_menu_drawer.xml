@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuProfile"
+            android:icon="@drawable/ic_person"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/menuWallpaper"
+            android:icon="@drawable/wallpaper"
+            android:title="Wallpapers" />
+
+        <item
+            android:id="@+id/menuRingtone"
+            android:icon="@drawable/ringtone"
+            android:title="Ringtones" />
+        <item
+            android:id="@+id/menuWallpaperChanger"
+            android:icon="@drawable/wallpaperch"
+            android:title="Wallpaper Changer" />
+
+        <item
+            android:id="@+id/menuChat"
+            android:icon="@drawable/chat"
+            android:title="Chats" />
+
+        <item
+            android:id="@+id/menuNotepad"
+            android:icon="@drawable/notepad"
+            android:title="Notepad" />
+
+        <item
+            android:id="@+id/menuPaint"
+            android:icon="@drawable/paint"
+            android:title="Paint" />
+
+        <item
+            android:id="@+id/menuSettings"
+            android:icon="@drawable/settings"
+            android:title="Settings" />
+    </group>
+</menu>

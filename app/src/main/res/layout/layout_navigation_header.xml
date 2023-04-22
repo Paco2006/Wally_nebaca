@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:padding="20dp"
+    android:background="@drawable/bg">
+
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="148dp"
+        android:layout_gravity="center"
+        android:src="@mipmap/logo_icon_round" />
+
+</LinearLayout>

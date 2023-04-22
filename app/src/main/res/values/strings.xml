@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Wally</string>
+    <string name="title_activity_google_login">GoogleLoginActivity</string>
+    <string name="search_wallpapers">Search Wallpapers</string>
+    <string name="category">Category</string>
+    <string name="menu_drawer_open">Drawer open</string>
+    <string name="menu_drawer_close">Drawer close</string>
+
+    <string name="title_of_the_song">Title of the song</string>
+    <string name="title_activity_music_player">MusicPlayerActivity</string>
+    <string name="title_activity_ringtonemain">Ringtonemain</string>
+
+    <string name="select_folder_button_text">Select Folder</string>
+    <string name="start_switching_button_text">Start Switching</string>
+    <string name="switch_wallpaper_button_text">Switch Wallpaper</string>
+    <string name="selected_folder_path">Selected folder path:</string>
+    <string name="image_preview_label">Image Preview:</string>
+    <string name="current_folder_label">Current Folder:</string>
+    <string name="switch_interval_preference_title">Switch Interval</string>
+    <string-array name="switch_interval_preference_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="switch_interval_preference_entries">
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+    </string-array>
+    <string name="title_activity_image_folder_picker">ImageFolderPickerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
